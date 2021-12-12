@@ -2,6 +2,7 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
+active: false
 
 # This file represents a page section.
 headless: true
@@ -23,11 +24,11 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: SAS
 - description: 10%
-  icon: camera-retro
+  icon: 'react'
   icon_pack: fas
-  name: Photography
+  name: React
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
