@@ -58,4 +58,4 @@ email: "aaz25@case.edu"
 highlight_name: true
 ---
 
-I am a BS/MS student at Case Western Reserve University. I am in my third year of the School of Engineering's Bachelor's in Computer Science program on the Databases and Data Mining track, and the first year of the School of Medicine's Master's in Biostatistics program on the Healthcare Analytics track.
+I am a BS/MS student at Case Western Reserve University. I am in my third year of the School of Engineering's Bachelor's in Computer Science program on the Databases and Data Mining track, and in my the first year of the School of Medicine's Master's in Biostatistics program on the Healthcare Analytics track.
